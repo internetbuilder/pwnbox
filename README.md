@@ -1,4 +1,4 @@
-# Pwnbox
+## Pwnbox
 
 ![htb screenshot](images/htb_screenshot.png?raw=true "Pwnbox")
 
